@@ -2,14 +2,14 @@
 
 Welkom bij de officiële Aedes Open Source GitHub repository.  
 
-Het doel van deze repository is als hub te dienen voor open-source projecten die door woningcorporaties zijn ontwikkeld.
+Het doel is om bestaande oplossingen, tools en best practices toegankelijk te maken voor de hele corporatie sector.
 
 > Aedes is niet verantwoordelijk voor de inhoud van deze repositories. Gebruikers zijn zelf verantwoordelijk voor een correcte en rechtmatige toepassing.
 
 
 ## Waarom open source?
 
-Corporaties staan voor flinke maatschappelijke opgaven: Voldoende betaalbare woningen, verduurzaming en leefbare wijken. Veel corporaties werken aan dezelfde vraagstukken en ontwikkelen vergelijkbare (digitale) oplossingen. Door deze oplossingen open source te delen, voorkomen we dubbel werk en versterken we elkaar.
+Corporaties staan voor flinke maatschappelijke opgaven: Voldoende betaalbare woningen, verduurzaming en leefbare wijken. Veel corporaties werken aan dezelfde vraagstukken en ontwikkelen vergelijkbare (digitale) oplossingen. Door open source principes te hanteren ontstaat een transparant ecosysteem waarin corporaties gezamenlijk werken aan innovatieve oplossingen voor sectorbrede uitdagingen.
 
 * **Gedeelde investering** – niet elke corporatie hoeft afzonderlijk een vergelijkbare oplossing te ontwikkelen.
 * **Hogere kwaliteit** – door elkaars expertise en ervaring te benutten, kunnen we sneller verbeteren.
