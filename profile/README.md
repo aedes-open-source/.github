@@ -22,7 +22,9 @@ Woningcorporaties zijn stichtingen met een maatschappelijke taak. Veel corporati
 
 ## 📦 Projecten
 
-### 🧮 [woningwaardering - Woonstad Rotterdam](https://github.com/woonstadrotterdam/woningwaardering)
+### [Woonstad Rotterdam](https://github.com/woonstadrotterdam)
+
+#### 🧮 [woningwaardering](https://github.com/woonstadrotterdam/woningwaardering)
 
 Berekent het aantal woningwaarderingpunten van een woning, op basis van de VERA-standaard.
 
@@ -34,7 +36,7 @@ Berekent het aantal woningwaarderingpunten van een woning, op basis van de VERA-
 
 ---
 
-### ⚙️ [pyspark-testframework - Woonstad Rotterdam](https://github.com/woonstadrotterdam/pyspark-testframework)
+#### ⚙️ [pyspark-testframework](https://github.com/woonstadrotterdam/pyspark-testframework)
 
 Bouw gemakkelijk datakwaliteitstests voor PySpark dataframes.
 
@@ -46,7 +48,7 @@ Bouw gemakkelijk datakwaliteitstests voor PySpark dataframes.
 
 ---
 
-### 🧪 [vera-testframework - Woonstad Rotterdam](https://github.com/woonstadrotterdam/vera-testframework)
+#### 🧪 [vera-testframework](https://github.com/woonstadrotterdam/vera-testframework)
 
 Test of je data de VERA-standaard volgt m.b.v. PySpark.
 
@@ -56,7 +58,7 @@ Test of je data de VERA-standaard volgt m.b.v. PySpark.
 ![PyPI - Version](https://img.shields.io/pypi/v/vera-testframework)
 ![License](https://img.shields.io/github/license/woonstadrotterdam/vera-testframework)
 
-### 🏛️ [monumenten - Woonstad Rotterdam](https://github.com/woonstadrotterdam/monumenten)
+#### 🏛️ [monumenten](https://github.com/woonstadrotterdam/monumenten)
 
 Bevraag monumentale statussen van het Kadaster en de Rijksdienst voor het Cultureel Erfgoed.
 
@@ -68,7 +70,7 @@ Bevraag monumentale statussen van het Kadaster en de Rijksdienst voor het Cultur
 
 ---
 
-### 💬📊 [mcp-sqlalchemy - Woonstad Rotterdam](https://github.com/woonstadrotterdam/mcp-sqlalchemy)
+#### 💬📊 [mcp-sqlalchemy](https://github.com/woonstadrotterdam/mcp-sqlalchemy)
 
 MCP-server om SQL-database tools beschikbaar te stellen aan je A.I.
 
@@ -78,7 +80,7 @@ MCP-server om SQL-database tools beschikbaar te stellen aan je A.I.
 
 ---
 
-### 💬🏛️ [mcp-monumenten - Woonstad Rotterdam](https://github.com/woonstadrotterdam/mcp-monumenten)
+#### 💬🏛️ [mcp-monumenten](https://github.com/woonstadrotterdam/mcp-monumenten)
 
 MCP-server om monumentale statussen te bevragen met m.b.v. de [monumenten](https://github.com/woonstadrotterdam/monumenten) package.
 
