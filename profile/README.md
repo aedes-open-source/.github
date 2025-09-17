@@ -14,7 +14,7 @@ Corporaties staan voor flinke maatschappelijke opgaven: Voldoende betaalbare won
 * **Gedeelde investering** – niet elke corporatie hoeft afzonderlijk een vergelijkbare oplossing te ontwikkelen.
 * **Hogere kwaliteit** – door elkaars expertise en ervaring te benutten, kunnen we sneller verbeteren.
 * **Standaardisatie** – gezamenlijke oplossingen zorgen voor meer uniformiteit.
-* **Hogere kwaliteit** – open source maakt zichtbaar hoe we werken en vergroot het onderlinge vertrouwen.
+* **Openheid en vertrouwen** – open source maakt zichtbaar hoe we werken en vergroot het onderlinge vertrouwen.
 
 
 ---
