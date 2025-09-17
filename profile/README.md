@@ -20,7 +20,7 @@ Woningcorporaties zijn stichtingen met een maatschappelijke taak. Veel corporati
 
 ---
 
-## 📦 Repositories
+## 📦 Projecten
 
 ### 🧮 [woningwaardering - Woonstad Rotterdam](https://github.com/woonstadrotterdam/woningwaardering)
 
