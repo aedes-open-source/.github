@@ -97,6 +97,6 @@ Wil je een open-source project delen via deze Aedes Open Source GitHub? Lees dan
 
 ---
 
-## 📃 Licenties
+## Licenties
 
 De licenties zijn op project-niveau gedefinieerd.
