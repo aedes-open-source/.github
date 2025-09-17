@@ -1,4 +1,4 @@
-# 🏘️ Aedes Open Source
+# Aedes Open Source
 
 Welkom bij de officiële Aedes Open Source GitHub repository.  
 
@@ -7,7 +7,7 @@ Het doel van deze repository is als hub te dienen voor open-source projecten die
 > Aedes is niet verantwoordelijk voor de inhoud van deze repositories. Gebruikers zijn zelf verantwoordelijk voor een correcte en rechtmatige toepassing.
 
 
-## 🤔 Waarom open source?
+## Waarom open source?
 
 Corporaties staan voor flinke maatschappelijke opgaven: Voldoende betaalbare woningen, verduurzaming en leefbare wijken. Veel corporaties werken aan dezelfde vraagstukken en ontwikkelen vergelijkbare (digitale) oplossingen. Door deze oplossingen open source te delen, voorkomen we dubbel werk en versterken we elkaar.
 
@@ -19,7 +19,7 @@ Corporaties staan voor flinke maatschappelijke opgaven: Voldoende betaalbare won
 
 ---
 
-## 📦 Projecten
+## Projecten
 
 ### [Woonstad Rotterdam](https://github.com/woonstadrotterdam)
 
