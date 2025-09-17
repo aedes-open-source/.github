@@ -91,7 +91,7 @@ MCP-server om monumentale statussen te bevragen met m.b.v. de [monumenten](https
 
 ---
 
-## 🤝 Bijdragen
+## Bijdragen
 
 Wil je een open-source project delen via deze Aedes Open Source GitHub? Lees dan de [CONTRIBUTING.md](../CONTRIBUTING.md) voor meer informatie.
 
