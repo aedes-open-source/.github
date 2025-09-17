@@ -9,14 +9,13 @@ Het doel van deze repository is als hub te dienen voor open-source projecten die
 
 ## 🤔 Waarom open source?
 
-Woningcorporaties zijn stichtingen met een maatschappelijke taak. Veel corporaties staan voor vergelijkbare uitdagingen en ontwikkelen daarvoor vaak vergelijkbare oplossingen. Door deze oplossingen open-source te delen, kunnen corporaties samenwerken en van elkaar leren. Dit biedt belangrijke voordelen:
+Corporaties staan voor flinke maatschappelijke opgaven: Voldoende betaalbare woningen, verduurzaming en leefbare wijken. Veel corporaties werken aan dezelfde vraagstukken en ontwikkelen vergelijkbare (digitale) oplossingen. Door deze oplossingen open source te delen, voorkomen we dubbel werk en versterken we elkaar.
 
-* **Tijd- en kostenbesparing** – niet elke corporatie hoeft afzonderlijk een vergelijkbare oplossing te ontwikkelen.
-* **Hogere kwaliteit** – meer gebruikers betekent meer feedback, snellere verbeteringen en sneller signaleren van fouten.
-* **Standaardisatie** – gezamenlijke oplossingen leiden tot meer uniformiteit in werkwijzen en systemen.
-* **Transparantie** – open-source vergroot het vertrouwen en inzicht richting huurders en belanghebbenden.
-* **Kennisdeling** – corporaties versterken elkaar door ervaringen, expertise en best practices uit te wisselen.
-* **Grotere slagkracht naar buiten toe** – door samen te werken aan dezelfde projecten staan corporaties sterker tegenover leveranciers, overheden en andere stakeholders, waardoor meer bereikt kan worden.
+* **Gedeelde investering** – niet elke corporatie hoeft afzonderlijk een vergelijkbare oplossing te ontwikkelen.
+* **Hogere kwaliteit** – door elkaars expertise en ervaring te benutten, kunnen we sneller verbeteren.
+* **Standaardisatie** – gezamenlijke oplossingen zorgen voor meer uniformiteit.
+* **Hogere kwaliteit** – open source maakt zichtbaar hoe we werken en vergroot het onderlinge vertrouwen
+
 
 ---
 
