@@ -75,6 +75,8 @@ MCP-server om SQL-database tools beschikbaar te stellen aan je A.I.
 
 ![Last commit](https://img.shields.io/github/last-commit/woonstadrotterdam/mcp-sqlalchemy)
 ![GitHub stars](https://img.shields.io/github/stars/woonstadrotterdam/mcp-sqlalchemy)
+[![Downloads](https://static.pepy.tech/badge/mcp-sqlalchemy/month)](https://pepy.tech/project/mcp-sqlalchemy)
+![PyPI - Version](https://img.shields.io/pypi/v/mcp-sqlalchemy)
 ![License](https://img.shields.io/github/license/woonstadrotterdam/mcp-sqlalchemy)
 
 ---
@@ -85,7 +87,7 @@ MCP-server om monumentale statussen te bevragen met m.b.v. de [monumenten](https
 
 ![Last commit](https://img.shields.io/github/last-commit/woonstadrotterdam/mcp-monumenten)
 ![GitHub stars](https://img.shields.io/github/stars/woonstadrotterdam/mcp-monumenten)
-[![Downloads](https://static.pepy.tech/badge/mcp-monumenten/month)](https://pepy.tech/project/monumenten)
+[![Downloads](https://static.pepy.tech/badge/mcp-monumenten/month)](https://pepy.tech/project/mcp-monumenten)
 ![PyPI - Version](https://img.shields.io/pypi/v/mcp-monumenten)
 ![License](https://img.shields.io/github/license/woonstadrotterdam/mcp-monumenten)
 
