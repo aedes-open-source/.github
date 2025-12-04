@@ -23,7 +23,11 @@ Corporaties staan voor flinke maatschappelijke opgaven: Voldoende betaalbare won
 
 ### [Woonstad Rotterdam](https://github.com/woonstadrotterdam)
 
-#### 🧮 [woningwaardering](https://github.com/woonstadrotterdam/woningwaardering)
+#### 🐍 Python packages
+
+> Zijn te installeren met `pip install <package naam>`
+
+##### 🧮 [woningwaardering](https://github.com/woonstadrotterdam/woningwaardering)
 
 Berekent het aantal woningwaarderingpunten van een woning, op basis van de VERA-standaard.
 
@@ -35,7 +39,7 @@ Berekent het aantal woningwaarderingpunten van een woning, op basis van de VERA-
 
 ---
 
-#### ⚙️ [pyspark-testframework](https://github.com/woonstadrotterdam/pyspark-testframework)
+##### ⚙️ [pyspark-testframework](https://github.com/woonstadrotterdam/pyspark-testframework)
 
 Bouw gemakkelijk datakwaliteitstests voor PySpark dataframes.
 
@@ -47,7 +51,7 @@ Bouw gemakkelijk datakwaliteitstests voor PySpark dataframes.
 
 ---
 
-#### 🧪 [vera-testframework](https://github.com/woonstadrotterdam/vera-testframework)
+##### 🧪 [vera-testframework](https://github.com/woonstadrotterdam/vera-testframework)
 
 Test of je data de VERA-standaard volgt m.b.v. PySpark.
 
@@ -57,7 +61,7 @@ Test of je data de VERA-standaard volgt m.b.v. PySpark.
 ![PyPI - Version](https://img.shields.io/pypi/v/vera-testframework)
 ![License](https://img.shields.io/github/license/woonstadrotterdam/vera-testframework)
 
-#### 🏛️ [monumenten](https://github.com/woonstadrotterdam/monumenten)
+##### 🏛️ [monumenten](https://github.com/woonstadrotterdam/monumenten)
 
 Bevraag monumentale statussen van het Kadaster en de Rijksdienst voor het Cultureel Erfgoed.
 
@@ -69,7 +73,11 @@ Bevraag monumentale statussen van het Kadaster en de Rijksdienst voor het Cultur
 
 ---
 
-#### 💬📊 [mcp-sqlalchemy](https://github.com/woonstadrotterdam/mcp-sqlalchemy)
+#### 💬 MCP-servers
+
+> MCP-servers geven extra functionaliteiten aan je AI.
+
+##### 💬📊 [mcp-sqlalchemy](https://github.com/woonstadrotterdam/mcp-sqlalchemy)
 
 MCP-server om SQL-database tools beschikbaar te stellen aan je A.I.
 
@@ -81,7 +89,7 @@ MCP-server om SQL-database tools beschikbaar te stellen aan je A.I.
 
 ---
 
-#### 💬🏛️ [mcp-monumenten](https://github.com/woonstadrotterdam/mcp-monumenten)
+##### 💬🏛️ [mcp-monumenten](https://github.com/woonstadrotterdam/mcp-monumenten)
 
 MCP-server om monumentale statussen te bevragen met m.b.v. de [monumenten](https://github.com/woonstadrotterdam/monumenten) package.
 
@@ -92,6 +100,36 @@ MCP-server om monumentale statussen te bevragen met m.b.v. de [monumenten](https
 ![License](https://img.shields.io/github/license/woonstadrotterdam/mcp-monumenten)
 
 ---
+
+#### 📊 Datasets
+
+> Kunnen gebruikt worden voor data-analyses en het trainen van AI-modellen.
+
+##### [woningwaarderingen](https://huggingface.co/datasets/woonstadrotterdam/woningwaarderingen)
+
+Dataset met kerneigenschappen van woningen en het aantal woningwaarderingspunten.
+
+##### [monumenten](https://huggingface.co/datasets/woonstadrotterdam/monumenten)
+
+Dataset met alle beschermde stads/dorpsgezichten en Rijks- en gemeentelijke monumenten van Nederland op basis van de Rijksdienst Cultureel Erfgoed en het Kadaster. Wordt paar keer per jaar geüpdatet.
+
+---
+
+#### 🧠 ML/AI modellen
+
+> Voorgetrainde modellen die je kan downloaden en gebruiken.
+
+##### [woningwaardering-ml](https://huggingface.co/woonstadrotterdam/woningwaardering-ml)
+
+Machine-Learning model dat op basis van enkele kerneigenschappen van een woning een schatting kan maken hoeveel woningwaarderingpunten de woning waard is. Is [op deze website](https://huggingface.co/spaces/woonstadrotterdam/woningwaardering-ml-space) interactief uit te proberen!
+
+##### [woningwaardering-llama3-8b-4bit-v1](https://huggingface.co/woonstadrotterdam/woningwaardering-llama3-8b-4bit-v1)
+
+Fine-tuned Llama LLM dat op basis van een fixed-format beschrijving van een woning een schatting kan maken hoeveel woningwaarderingpunten de woning waard is.
+
+---
+
+#####
 
 ## Bijdragen
 
