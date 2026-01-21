@@ -16,92 +16,73 @@ Corporaties staan voor flinke maatschappelijke opgaven: Voldoende betaalbare won
 * **Standaardisatie** – gezamenlijke oplossingen zorgen voor meer uniformiteit.
 * **Openheid en vertrouwen** – open source maakt zichtbaar hoe we werken en vergroot het onderlinge vertrouwen.
 
-
 ---
 
 ## Projecten
 
+### Beveland Wonen - Thuisvester - Woonstad Rotterdam
+
+#### Datasets
+
+#### [woningwaarderingen](https://huggingface.co/datasets/woonstadrotterdam/woningwaarderingen-collab)
+
+Dataset met kerneigenschappen van woningen en het aantal woningwaarderingspunten van de organizaties Beveland Wonen, Thuisvester en Woonstad Rotterdam.
+
+---
+
+### [De Alliantie](https://github.com/de-alliantie)
+
+##### [Ally](https://github.com/de-alliantie/Ally)
+
+Ally is een chatbot voor medewerkers van de klantenservice van de Alliantie. Ally helpt om snel informatie in de kennisbank van de klantenservice met behulp van natuurlijke taal op te zoeken.
+
+##### [Alliantie-AI](https://github.com/de-alliantie/Alliantie-AI)
+
+Alliantie AI is een webapp waarmee medewerkers van de Alliantie op een veilige gebruik kunnen maken van Generative AI toepassingen. Het bestaat uit twee applicaties: Veilig ChatGPT en Notulen Generator.
+
+##### [Verhuiskans](https://github.com/de-alliantie/Verhuiskans)
+
+Verhuiskans is een Machine Learning model die de kans inschat dat een bewoner het huurcontract opzegt. Het model is getrained op historische verhuisdata van de Alliantie.
+
+---
+
 ### [Woonstad Rotterdam](https://github.com/woonstadrotterdam)
 
-#### 🐍 Python packages
+#### Python packages
 
 > Zijn te installeren met `pip install <package naam>`
 
-##### 🧮 [woningwaardering](https://github.com/woonstadrotterdam/woningwaardering)
+##### [woningwaardering](https://github.com/woonstadrotterdam/woningwaardering)
 
 Berekent het aantal woningwaarderingpunten van een woning, op basis van de VERA-standaard.
 
-![Last commit](https://img.shields.io/github/last-commit/woonstadrotterdam/woningwaardering)
-![GitHub stars](https://img.shields.io/github/stars/woonstadrotterdam/woningwaardering)
-[![Downloads](https://static.pepy.tech/badge/woningwaardering/month)](https://pepy.tech/project/woningwaardering)
-![PyPI - Version](https://img.shields.io/pypi/v/woningwaardering)
-![License](https://img.shields.io/github/license/woonstadrotterdam/woningwaardering)
 
----
-
-##### ⚙️ [pyspark-testframework](https://github.com/woonstadrotterdam/pyspark-testframework)
+##### [pyspark-testframework](https://github.com/woonstadrotterdam/pyspark-testframework)
 
 Bouw gemakkelijk datakwaliteitstests voor PySpark dataframes.
 
-![Last commit](https://img.shields.io/github/last-commit/woonstadrotterdam/pyspark-testframework)
-![GitHub stars](https://img.shields.io/github/stars/woonstadrotterdam/pyspark-testframework)
-[![Downloads](https://static.pepy.tech/badge/pyspark-testframework/month)](https://pepy.tech/project/pyspark-testframework)
-![PyPI - Version](https://img.shields.io/pypi/v/pyspark-testframework)
-![License](https://img.shields.io/github/license/woonstadrotterdam/pyspark-testframework)
 
----
-
-##### 🧪 [vera-testframework](https://github.com/woonstadrotterdam/vera-testframework)
+##### [vera-testframework](https://github.com/woonstadrotterdam/vera-testframework)
 
 Test of je data de VERA-standaard volgt m.b.v. PySpark.
 
-![Last commit](https://img.shields.io/github/last-commit/woonstadrotterdam/vera-testframework)
-![GitHub stars](https://img.shields.io/github/stars/woonstadrotterdam/vera-testframework)
-[![Downloads](https://static.pepy.tech/badge/vera-testframework/month)](https://pepy.tech/project/vera-testframework)
-![PyPI - Version](https://img.shields.io/pypi/v/vera-testframework)
-![License](https://img.shields.io/github/license/woonstadrotterdam/vera-testframework)
-
-##### 🏛️ [monumenten](https://github.com/woonstadrotterdam/monumenten)
+##### [monumenten](https://github.com/woonstadrotterdam/monumenten)
 
 Bevraag monumentale statussen van het Kadaster en de Rijksdienst voor het Cultureel Erfgoed.
 
-![Last commit](https://img.shields.io/github/last-commit/woonstadrotterdam/monumenten)
-![GitHub stars](https://img.shields.io/github/stars/woonstadrotterdam/monumenten)
-[![Downloads](https://static.pepy.tech/badge/monumenten/month)](https://pepy.tech/project/monumenten)
-![PyPI - Version](https://img.shields.io/pypi/v/monumenten)
-![License](https://img.shields.io/github/license/woonstadrotterdam/monumenten)
-
----
-
-#### 💬 MCP-servers
+#### MCP-servers
 
 > MCP-servers geven extra functionaliteiten aan je AI.
 
-##### 💬📊 [mcp-sqlalchemy](https://github.com/woonstadrotterdam/mcp-sqlalchemy)
+##### [mcp-sqlalchemy](https://github.com/woonstadrotterdam/mcp-sqlalchemy)
 
 MCP-server om SQL-database tools beschikbaar te stellen aan je A.I.
 
-![Last commit](https://img.shields.io/github/last-commit/woonstadrotterdam/mcp-sqlalchemy)
-![GitHub stars](https://img.shields.io/github/stars/woonstadrotterdam/mcp-sqlalchemy)
-[![Downloads](https://static.pepy.tech/badge/mcp-sqlalchemy/month)](https://pepy.tech/project/mcp-sqlalchemy)
-![PyPI - Version](https://img.shields.io/pypi/v/mcp-sqlalchemy)
-![License](https://img.shields.io/github/license/woonstadrotterdam/mcp-sqlalchemy)
-
----
-
-##### 💬🏛️ [mcp-monumenten](https://github.com/woonstadrotterdam/mcp-monumenten)
+##### [mcp-monumenten](https://github.com/woonstadrotterdam/mcp-monumenten)
 
 MCP-server om monumentale statussen te bevragen met m.b.v. de [monumenten](https://github.com/woonstadrotterdam/monumenten) package.
 
-![Last commit](https://img.shields.io/github/last-commit/woonstadrotterdam/mcp-monumenten)
-![GitHub stars](https://img.shields.io/github/stars/woonstadrotterdam/mcp-monumenten)
-[![Downloads](https://static.pepy.tech/badge/mcp-monumenten/month)](https://pepy.tech/project/mcp-monumenten)
-![PyPI - Version](https://img.shields.io/pypi/v/mcp-monumenten)
-![License](https://img.shields.io/github/license/woonstadrotterdam/mcp-monumenten)
-
----
-
-#### 📊 Datasets
+#### Datasets
 
 > Kunnen gebruikt worden voor data-analyses en het trainen van AI-modellen.
 
@@ -113,9 +94,7 @@ Dataset met kerneigenschappen van woningen en het aantal woningwaarderingspunten
 
 Dataset met alle beschermde stads/dorpsgezichten en Rijks- en gemeentelijke monumenten van Nederland op basis van de Rijksdienst Cultureel Erfgoed en het Kadaster. Wordt paar keer per jaar geüpdatet.
 
----
-
-#### 🧠 ML/AI modellen
+#### ML/AI modellen
 
 > Voorgetrainde modellen die je kan downloaden en gebruiken.
 
@@ -129,7 +108,21 @@ Fine-tuned Llama LLM dat op basis van een fixed-format beschrijving van een woni
 
 ---
 
-#####
+### [Thuisvester](https://www.thuisvester.nl/)
+
+##### [woningwaarderingen](https://huggingface.co/datasets/Thuisvester/woningwaardering)
+
+Dataset met kerneigenschappen van woningen en het aantal woningwaarderingspunten.
+
+---
+
+### [Beveland Wonen](https://bevelandwonen.nl/)
+
+##### [woningwaarderingen](https://huggingface.co/datasets/BevelandW/wws)
+
+Dataset met kerneigenschappen van woningen en het aantal woningwaarderingspunten.
+
+---
 
 ## Bijdragen
 
