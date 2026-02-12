@@ -4,7 +4,8 @@ Welkom bij de officiële Aedes Open Source GitHub repository.
 
 Het doel is om bestaande oplossingen, tools en best practices toegankelijk te maken voor de hele corporatie sector.
 
-> Aedes is niet verantwoordelijk voor de inhoud van deze repositories. Gebruikers zijn zelf verantwoordelijk voor een correcte en rechtmatige toepassing.
+> [!IMPORTANT]
+>  Aedes is niet verantwoordelijk voor de inhoud van deze repositories. Gebruikers zijn zelf verantwoordelijk voor een correcte en rechtmatige toepassing.
 
 
 ## Waarom open source?
