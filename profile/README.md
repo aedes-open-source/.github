@@ -4,7 +4,7 @@ Welkom bij de officiële Aedes Open Source GitHub repository.
 
 Het doel is om bestaande oplossingen, tools en best practices toegankelijk te maken voor de hele corporatie sector.
 
-## Gerelateerde Aedes GitHub-organisaties
+Voor de Aedes datastandaarden, zie onze andere github omgeving:
 
 - **[Aedes Datastandaarden](https://github.com/Aedes-datastandaarden)** — datastandaarden voor de corporatiesector, onder andere de VERA standaard.
 
