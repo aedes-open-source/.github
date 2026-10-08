@@ -25,6 +25,14 @@ Corporaties staan voor flinke maatschappelijke opgaven: Voldoende betaalbare won
 
 ## Projecten
 
+### Aedes
+
+#### [Samenwerking vocht en schimmel voorspelmodel](https://github.com/aedes-open-source/Vocht-en-schimmel)
+
+Initiatief van Aedes waarin woningcorporaties gezamelijk kunnen onderzoeken welke factoren bijdragen aan vocht- en schimmelproblematiek, en vervolgens een voorspelmodel ontwikkelen. 
+
+--- 
+
 ### Beveland Wonen - Thuisvester - Woonstad Rotterdam
 
 #### Datasets
